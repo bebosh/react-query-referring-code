@@ -1,0 +1,113 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "name": "Robin",
+      "alterEgo": "Dick Grayson"
+    },
+    {
+      "name": "Spiderman",
+      "alterEgo": "Peter Parker",
+      "id": 5
+    },
+    {
+      "name": "Iron Man",
+      "alterEgo": "Tony Stark",
+      "id": 6
+    },
+    {
+      "name": "Cat Woman",
+      "alterEgo": "Selina Kyle",
+      "id": 7
+    },
+    {
+      "name": "Paperinik",
+      "alterEgo": "Paolino Paperino",
+      "id": 8
+    },
+    {
+      "name": "adfogb",
+      "alterEgo": "iubdf",
+      "id": 9
+    }
+  ],
+  "bigbang": [
+    {
+      "id": 1,
+      "name": "Sheldon Cooper"
+    },
+    {
+      "id": 2,
+      "name": "Leonard Hofstatder"
+    },
+    {
+      "id": 3,
+      "name": "Penny Hofstatder"
+    },
+    {
+      "id": 4,
+      "name": "Howard Horowitz"
+    }
+  ],
+  "users": [
+    {
+      "id": "pippo@pluto.com",
+      "channelId": "SNPDA"
+    }
+  ],
+  "channels": [
+    {
+      "id": "SNPDA",
+      "courses": [
+        "kind",
+        "respect",
+        "patience"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "green"
+    },
+    {
+      "id": 2,
+      "label": "red"
+    },
+    {
+      "id": 3,
+      "label": "blue"
+    },
+    {
+      "id": 4,
+      "label": "white"
+    },
+    {
+      "id": 5,
+      "label": "purple"
+    },
+    {
+      "id": 6,
+      "label": "black"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    }
+  ]
+}
